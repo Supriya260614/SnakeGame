@@ -4,4 +4,4 @@ Snake game built using Java and GUI made by using Java swing library. A user can
 
 https://github.com/Supriya260614/SnakeGame/assets/117707863/d5479edf-d13a-4c45-948b-e0f33e1c4438
 
-https://github.com/Supriya260614/SnakeGame/assets/117707863/238e0d4d-2a0a-4e9c-b848-505d2e0a017a
+ 
